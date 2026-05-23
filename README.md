@@ -1,6 +1,6 @@
 # Erster PR Demo
 
-Wilkommen in diesem Demo-Repository!
+Willkommen in diesem Demo-Repository!
 
 Dieses Projekt zeigt, wie man einen Pull Request erstellt.
 
@@ -10,7 +10,7 @@ Dieses Projekt zeigt, wie man einen Pull Request erstellt.
 2. Einen neuen Branch erstellen
 3. Eine Änderung vornehmen
 4. Den Branch pushen
-5. Einen Pull Reqeust öffnen
+5. Einen Pull Request öffnen
 
 ## Mitmachen
 
